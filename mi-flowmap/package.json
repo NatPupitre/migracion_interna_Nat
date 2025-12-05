@@ -4,6 +4,7 @@
     "@deck.gl/geo-layers": "^8.9.0",
     "@deck.gl/layers": "^8.9.0",
     "@flowmap.gl/layers": "^8.0.2",
+    "@flowmap.gl/core": "^8.0.2", 
     "lil-gui": "^0.21.0",
     "mapbox-gl": "^3.17.0"
   }
